@@ -94,21 +94,21 @@
 // console.log("O'chirilgan element:", element);
 
 // 8 masala
-function removeElements(arr, k, m) {
-  if (n <= m) {
-    return;
-  }
-  var n = arr.length;
-  k--;
-  m--;
-  arr.splice(k, m - k + 1);
-  console.log("Yangi massiv:", arr);
-}
+// function removeElements(arr, k, m) {
+//   if (n <= m) {
+//     return;
+//   }
+//   var n = arr.length;
+//   k--;
+//   m--;
+//   arr.splice(k, m - k + 1);
+//   console.log("Yangi massiv:", arr);
+// }
 
-var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-var k = 2;
-var m = 5;
-removeElements(arr, k, m);
+// var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// var k = 2;
+// var m = 5;
+// removeElements(arr, k, m);
 
 //9 masala
-//.....
+//.....?????
