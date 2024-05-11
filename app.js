@@ -98,7 +98,7 @@
 //   if (n <= m) {
 //     return;
 //   }
-//   var n = arr.length;
+//   let n = arr.length;
 //   k--;
 //   m--;
 //   arr.splice(k, m - k + 1);
